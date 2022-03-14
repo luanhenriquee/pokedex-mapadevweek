@@ -2,12 +2,12 @@
 
 <hr>
 
-<p>Confira o resultado do projeto em: <a href="https://pokedex-devweek.netlify.app/" target="_blank">pokedex-devweek.netlify.app/</a></p>
+<p>Confira o resultado do projeto em: <a href="https://pokedex-projeto.netlify.app/" target="_blank">pokedex-projeto.netlify.app/</a></p>
 
 <hr>
 
 ## 💻 Projeto Pokédex (MapaDevWeek) 
-Neste projeto você irá desenvolver uma pokédex com 6 cards, contendo as informações dos seus respectivos pokemons.
+Neste projeto você foi desenvolvido uma pokédex com 6 cards, contendo as informações dos seus respectivos pokemons.
 
 ## 🚀 Techs
 <ul>
