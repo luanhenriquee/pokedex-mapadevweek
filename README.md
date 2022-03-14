@@ -1,7 +1,4 @@
 # 🎯 Pokédex!
-
-<hr>
-
 <p>Confira o resultado do projeto em: <a href="https://pokedex-projeto.netlify.app/" target="_blank">pokedex-projeto.netlify.app/</a></p>
 
 <hr>
@@ -17,10 +14,6 @@ Neste projeto foi desenvolvido uma pokédex com 6 cards, contendo as informaçõ
 </ul>
 
 ## 🎨 Layout 
-Desktop:
 ![image](https://user-images.githubusercontent.com/100303972/158211720-faeb7ee7-a2a4-4ebe-9183-a9d5bc5225aa.png)
-
 <hr>
-
-Mobile:
 ![image](https://user-images.githubusercontent.com/100303972/158212051-48be7dd6-c659-4d74-a12b-4ca145b68ac9.png)
