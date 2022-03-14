@@ -1,13 +1,10 @@
-# 🚧 Em Construção!
-
-<hr>
-
-<p>Confira o resultado do projeto em: <a href="https://luanhenriquee.github.io/pokedex-mapadevweek/" target="_blank">luanhenriquee.github.io/pokedex-mapadevweek/</a></p>
+# 🎯 Pokédex!
+<p>Confira o resultado do projeto em: <a href="https://pokedex-projeto.netlify.app/" target="_blank">pokedex-projeto.netlify.app/</a></p>
 
 <hr>
 
 ## 💻 Projeto Pokédex (MapaDevWeek) 
-Neste projeto você irá desenvolver uma pokédex com 6 cards, contendo as informações dos seus respectivos pokemons.
+Neste projeto foi desenvolvido uma pokédex com 6 cards, contendo as informações dos seus respectivos pokemons.
 
 ## 🚀 Techs
 <ul>
@@ -15,3 +12,11 @@ Neste projeto você irá desenvolver uma pokédex com 6 cards, contendo as infor
   <li> CSS </li>
   <li> JavaScript </li>
 </ul>
+
+## 🎨 Layout 
+### Desktop:
+![image](https://user-images.githubusercontent.com/100303972/158211720-faeb7ee7-a2a4-4ebe-9183-a9d5bc5225aa.png)
+<hr>
+
+### Mobile:
+![image](https://user-images.githubusercontent.com/100303972/158212259-a6960c0d-b9de-45eb-8789-d44703985914.png)
