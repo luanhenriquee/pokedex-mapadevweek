@@ -7,7 +7,7 @@
 <hr>
 
 ## 💻 Projeto Pokédex (MapaDevWeek) 
-Neste projeto você foi desenvolvido uma pokédex com 6 cards, contendo as informações dos seus respectivos pokemons.
+Neste projeto foi desenvolvido uma pokédex com 6 cards, contendo as informações dos seus respectivos pokemons.
 
 ## 🚀 Techs
 <ul>
