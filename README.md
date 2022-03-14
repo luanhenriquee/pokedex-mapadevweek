@@ -2,7 +2,7 @@
 
 <hr>
 
-<p>Confira o resultado do projeto em: <a href="https://luanhenriquee.github.io/pokedex-mapadevweek/" target="_blank">luanhenriquee.github.io/pokedex-mapadevweek/</a></p>
+<p>Confira o resultado do projeto em: <a href="https://pokedex-devweek.netlify.app/" target="_blank">pokedex-devweek.netlify.app/</a></p>
 
 <hr>
 
