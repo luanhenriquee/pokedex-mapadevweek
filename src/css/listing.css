@@ -1,11 +1,27 @@
 .listing {
     max-width: 200px;
+    height: 480px;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding: 0 10px 0 5px;
+}
+
+
+.listing::-webkit-scrollbar {
+    border-radius: 8px;
+    background: #161616;
+    width: 13px;
+}
+
+.listing::-webkit-scrollbar-thumb {
+    background: #ff0066;
+    border-radius: 8px;
 }
 
 .listing .pokemon {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-bottom: 10px;
     background-color: #6b727a;
     color: #ffffff;
@@ -13,9 +29,9 @@
     cursor: pointer;
     border-radius: 30px 0 0 30px;
     min-height: 70px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     transition: 0.15s ease-in-out;
 }
+
 
 .listing .pokemon:hover {
     transform: scale(1.05);
@@ -24,7 +40,7 @@
 .listing .pokemon img {
     width: 25%;
     border-radius: 50%;
-    filter: drop-shadow(5px 8px 10px rgba(0, 0, 0, 0.3));
+    filter: drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.3));
 }
 
 .listing .pokemon span {
