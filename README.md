@@ -20,3 +20,7 @@ Neste projeto foi desenvolvido uma pokédex com 6 cards, contendo as informaçõ
 
 ### Mobile:
 ![image](https://user-images.githubusercontent.com/100303972/158212259-a6960c0d-b9de-45eb-8789-d44703985914.png)
+
+<div align="center">
+  <small>Desenvolvido com 💜 por Luan Henrique</small>
+</div>
