@@ -7,7 +7,10 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #dadfe8;
+    background-image: url('/src/images/pokeball-planetx-wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .pokedex {
