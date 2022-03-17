@@ -19,7 +19,7 @@ function removeOpen () {
 
 menuPokemon.forEach((pokemon, index) => {
     pokemon.addEventListener('click', () => {
-        if (index == 3) {
+        if (index == 9) {
             sound.src = "/src/sounds/sound-pikachu.mp3";
         } else {
             sound.src = "/src/sounds/sound-button.mp3";
