@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="github/image/logo.png" alt="Pokémon" width="200">
+  <img src="github/logo.png" alt="Pokémon" width="200">
 </h1>
 
 <p align="center">Confira o resultado do projeto em: <a href="https://pokedex-projeto.netlify.app/" target="_blank">pokedex-projeto.netlify.app/</a></p>
