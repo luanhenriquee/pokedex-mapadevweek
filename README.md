@@ -12,9 +12,9 @@ Neste projeto foi desenvolvido uma pokédex com 6 cards, contendo as informaçõ
 
 ## 🚀 Tecnologias 
 <ul>
-  <li> HTML</li>
-  <li> CSS </li>
-  <li> JavaScript </li>
+  <li> ✔️ HTML</li>
+  <li> ✔️ CSS </li>
+  <li> ✔️ JavaScript </li>
 </ul>
 
 ## 🎨 Layout 
